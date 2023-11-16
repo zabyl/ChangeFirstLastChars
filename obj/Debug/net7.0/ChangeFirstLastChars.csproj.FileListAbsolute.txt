@@ -1,0 +1,15 @@
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\bin\Debug\net7.0\ChangeFirstLastChars.exe
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\bin\Debug\net7.0\ChangeFirstLastChars.deps.json
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\bin\Debug\net7.0\ChangeFirstLastChars.runtimeconfig.json
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\bin\Debug\net7.0\ChangeFirstLastChars.dll
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\bin\Debug\net7.0\ChangeFirstLastChars.pdb
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.csproj.AssemblyReference.cache
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.AssemblyInfoInputs.cache
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.AssemblyInfo.cs
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.dll
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\refint\ChangeFirstLastChars.dll
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.pdb
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ChangeFirstLastChars.genruntimeconfig.cache
+C:\Users\ASUS\PatikaDev\ChangeFirstLastChars\obj\Debug\net7.0\ref\ChangeFirstLastChars.dll
